@@ -1,0 +1,6 @@
+{
+  "name": "Plant Disease Detector & Agricultural Guide",
+  "description": "An AI-powered agricultural diagnosis tool that detects plant diseases from leaf photos, recommends chemical and organic medicines, displays growth guidelines, and generates diagnostic PDF reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
